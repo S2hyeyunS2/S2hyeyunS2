@@ -18,3 +18,9 @@
   <img src="https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
+<br>
+<div align=center><h1>🗃️ GITHUB STATS CARD</h1>
+
+<!-- GITHUB STATS CARD -->
+![S2hyeyunS2's GITHUB STATS](https://github-readme-stats.vercel.app/api?username=S2hyeyunS2&show_icons=true&theme=tokyonight)
+</div>
