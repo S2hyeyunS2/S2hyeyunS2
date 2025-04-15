@@ -19,8 +19,9 @@
   <img src="https://img.shields.io/badge/Slack-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 <br>
-<div align=center><h1>🗃️ GITHUB STATS CARD</h1>
+<div align=center><h1>🗃️ GITHUB STATS CARD & BAEKJOON</h1>
 
 <!-- GITHUB STATS CARD -->
-![S2hyeyunS2's GITHUB STATS](https://github-readme-stats.vercel.app/api?username=S2hyeyunS2&show_icons=true&theme=tokyonight)
+[![Hyeyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=S2hyeyunS2)](https://github.com/S2hyeyunS2/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hy101921)](https://solved.ac/hy101921)
 </div>
