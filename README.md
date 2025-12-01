@@ -46,6 +46,5 @@
 
 <div align=center><h1>🗃️ GITHUB STATS CARD & BAEKJOON</h1>
 
-[![Hyeyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=S2hyeyunS2)](https://github.com/S2hyeyunS2/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hy101921)](https://solved.ac/hy101921)
 </div>
