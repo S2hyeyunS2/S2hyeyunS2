@@ -1,45 +1,88 @@
 <div align=center><h1>📚 TECH STACKS</h1></div>
 
-<div align=center> 
+<div align=center>
+
   <!-- Backend -->
+  <h3>🖥️ Backend</h3>
   <img src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/QueryDSL-0085CA?style=for-the-badge&logo=apache-maven&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/QueryDSL-0085CA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <br>
 
   <!-- MSA -->
+  <h3>🌐 MSA </h3>
   <img src="https://img.shields.io/badge/MSA-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Eureka-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/OpenFeign-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Zipkin-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
   <br>
 
   <!-- DB -->
+  <h3>🗄️ DB</h3>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <br>
 
   <!-- Infra -->
-  <br>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <h3>☁️ Infra</h3>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+  <br>
+
+  <!-- Observability -->
+  <h3>📈 Monitoring / Reliability</h3>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Loki-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Zipkin-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Resilience4j-000000?style=for-the-badge">
+  <br>
+
+  <!-- Test -->
+  <h3>🧪 Test</h3>
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/nGrinder-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white">
+  <br>
+
+  <!-- External API -->
+  <h3>🔌 External API</h3>
+  <img src="https://img.shields.io/badge/Kakao%20Local%20API-FFCD00?style=for-the-badge&logo=kakao&logoColor=000000">
+  <img src="https://img.shields.io/badge/Naver%20Map%20API-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <br>
 
   <!-- Frontend -->
-  <br>
+  <h3>🎨 Frontend</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <br>
 
   <!-- Collaboration & Tools -->
-  <br>
+  <h3>🤝 Collaboration & Tools</h3>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/ERD%20Cloud-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white">
+  <br>
+
 </div>
 
 <br>
