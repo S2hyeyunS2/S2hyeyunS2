@@ -58,8 +58,3 @@
 
 <br>
 
-<div align="center"><h1>🗃️ GITHUB STATS CARD & BAEKJOON</h1>
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hy101921)](https://solved.ac/hy101921)
-
-</div>
