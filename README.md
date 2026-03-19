@@ -1,60 +1,81 @@
-<div align="center"><h1>📚 TECH STACKS</h1></div>
-
 <div align="center">
 
-  <!-- Backend -->
-  <h3>🖥️ Backend</h3>
-  <img src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=for-the-badge">
-  <img src="https://img.shields.io/badge/MSA-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Eureka-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/OpenFeign-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
-  <br>
+<!-- 타이핑 애니메이션 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Welcome+to+HYEYUN+GitHub!+🙌;I'm+a+Backend+Developer+☕;Always+learning%2C+always+growing+🚀)](https://git.io/typing-svg)
 
-  <!-- DB -->
-  <h3>🗄️ DB</h3>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-  <br>
+<br/>
 
-  <!-- Infra -->
-  <h3>☁️ Infra</h3>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
-  <br>
 
-  <!-- Observability / Test -->
-<h3>📊 Observability / Test</h3>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
-<img src="https://img.shields.io/badge/Zipkin-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white">
-<br>
+## 📌 Introduce
 
-  <!-- Collaboration & Tools -->
-  <h3>🤝 Collaboration & Tools</h3>
-  <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/ERD%20Cloud-000000?style=for-the-badge">
+**'성능'과 '안정성', 두 마리 토끼를 잡고 싶은 백엔드 개발자 김혜윤입니다.**
+
+
+
+**Contact** &nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@gmail.com)
+
+<br/>
+
+
+## 💼 Career & Education
+
+<table>
+  <tr>
+    <th></th>
+    <th>내용</th>
+    <th>기간</th>
+  </tr>
+  <tr>
+    <td>💼 경력</td>
+    <td>시놀 결혼정보회사 고객 CRM 개발 (풀스택개발) </td>
+    <td>2026.02 ~ 2026.03</td>
+  </tr>
+  <tr>
+    <td>🎓 학력</td>
+    <td>세종대학교 전자정보통신공학과 졸업</td>
+    <td> 2024.02</td>
+  </tr>
+</table>
+
+<br/>
+
+## 🛠 Tech Stack
+
+### Backend
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
+[![Gradle](https://skillicons.dev/icons?i=gradle)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+### Frontend
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+
+### Infra & DevOps
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![Kafka](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)
+[![Nginx](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
+
+### Database
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
+
+### Tools
+[![IntelliJ](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=S2hyeyunS2&show_icons=true&theme=rose_pine&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S2hyeyunS2&layout=donut&theme=rose_pine&hide_border=true" height="160"/>
 
 </div>
-
-<br>
-
