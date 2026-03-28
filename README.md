@@ -18,28 +18,6 @@
 <br/>
 
 
-## 💼 Career & Education
-
-<table>
-  <tr>
-    <th></th>
-    <th>내용</th>
-    <th>기간</th>
-  </tr>
-  <tr>
-    <td>💼 경력</td>
-    <td>시놀 결혼정보회사 고객 CRM 개발 (풀스택개발) </td>
-    <td>2026.02 ~ 2026.03</td>
-  </tr>
-  <tr>
-    <td>🎓 학력</td>
-    <td>세종대학교 전자정보통신공학과 졸업</td>
-    <td> 2024.02</td>
-  </tr>
-</table>
-
-<br/>
-
 ## 🛠 Tech Stack
 
 ### Backend
